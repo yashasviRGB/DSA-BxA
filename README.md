@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/yashasviRGB/DSA-BxA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/yashasviRGB/DSA-BxA/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/yashasviRGB/DSA-BxA/tree/master/0383-ransom-note) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/yashasviRGB/DSA-BxA/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/yashasviRGB/DSA-BxA/tree/master/0383-ransom-note) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -52,4 +54,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/yashasviRGB/DSA-BxA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0383-ransom-note](https://github.com/yashasviRGB/DSA-BxA/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
