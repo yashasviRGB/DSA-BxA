@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/yashasviRGB/DSA-BxA/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/yashasviRGB/DSA-BxA/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/yashasviRGB/DSA-BxA/tree/master/0219-contains-duplicate-ii) |
+| [0228-summary-ranges](https://github.com/yashasviRGB/DSA-BxA/tree/master/0228-summary-ranges) |
 ## Hash Table
 |  |
 | ------- |
