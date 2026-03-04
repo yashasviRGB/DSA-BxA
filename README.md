@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/yashasviRGB/DSA-BxA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/yashasviRGB/DSA-BxA/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/yashasviRGB/DSA-BxA/tree/master/0061-rotate-list) |
+| [0086-partition-list](https://github.com/yashasviRGB/DSA-BxA/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/yashasviRGB/DSA-BxA/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/yashasviRGB/DSA-BxA/tree/master/0202-happy-number) |
 ## Binary Search
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/yashasviRGB/DSA-BxA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/yashasviRGB/DSA-BxA/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/yashasviRGB/DSA-BxA/tree/master/0061-rotate-list) |
+| [0086-partition-list](https://github.com/yashasviRGB/DSA-BxA/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/yashasviRGB/DSA-BxA/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/yashasviRGB/DSA-BxA/tree/master/0141-linked-list-cycle) |
 ## Recursion
