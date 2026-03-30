@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/yashasviRGB/DSA-BxA/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/yashasviRGB/DSA-BxA/tree/master/0027-remove-element) |
 | [0041-first-missing-positive](https://github.com/yashasviRGB/DSA-BxA/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/yashasviRGB/DSA-BxA/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/yashasviRGB/DSA-BxA/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/yashasviRGB/DSA-BxA/tree/master/0057-insert-interval) |
 | [0088-merge-sorted-array](https://github.com/yashasviRGB/DSA-BxA/tree/master/0088-merge-sorted-array) |
@@ -58,12 +59,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/yashasviRGB/DSA-BxA/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yashasviRGB/DSA-BxA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Two Pointers
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/yashasviRGB/DSA-BxA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/yashasviRGB/DSA-BxA/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/yashasviRGB/DSA-BxA/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/yashasviRGB/DSA-BxA/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/yashasviRGB/DSA-BxA/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/yashasviRGB/DSA-BxA/tree/master/0088-merge-sorted-array) |
@@ -105,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/yashasviRGB/DSA-BxA/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/yashasviRGB/DSA-BxA/tree/master/0042-trapping-rain-water) |
 ## Linked List
 |  |
 | ------- |
@@ -161,4 +165,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/yashasviRGB/DSA-BxA/tree/master/0112-path-sum) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/yashasviRGB/DSA-BxA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0226-invert-binary-tree](https://github.com/yashasviRGB/DSA-BxA/tree/master/0226-invert-binary-tree) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/yashasviRGB/DSA-BxA/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
