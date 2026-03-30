@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yashasviRGB/DSA-BxA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/yashasviRGB/DSA-BxA/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/yashasviRGB/DSA-BxA/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/yashasviRGB/DSA-BxA/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/yashasviRGB/DSA-BxA/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/yashasviRGB/DSA-BxA/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/yashasviRGB/DSA-BxA/tree/master/0228-summary-ranges) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/yashasviRGB/DSA-BxA/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/yashasviRGB/DSA-BxA/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/yashasviRGB/DSA-BxA/tree/master/0141-linked-list-cycle) |
+| [0189-rotate-array](https://github.com/yashasviRGB/DSA-BxA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/yashasviRGB/DSA-BxA/tree/master/0202-happy-number) |
 ## Binary Search
 |  |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/yashasviRGB/DSA-BxA/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/yashasviRGB/DSA-BxA/tree/master/0013-roman-to-integer) |
+| [0189-rotate-array](https://github.com/yashasviRGB/DSA-BxA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/yashasviRGB/DSA-BxA/tree/master/0202-happy-number) |
 ## Union-Find
 |  |
