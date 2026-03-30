@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/yashasviRGB/DSA-BxA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/yashasviRGB/DSA-BxA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/yashasviRGB/DSA-BxA/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/yashasviRGB/DSA-BxA/tree/master/0041-first-missing-positive) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/yashasviRGB/DSA-BxA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/yashasviRGB/DSA-BxA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/yashasviRGB/DSA-BxA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/yashasviRGB/DSA-BxA/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/yashasviRGB/DSA-BxA/tree/master/0020-valid-parentheses) |
 | [0205-isomorphic-strings](https://github.com/yashasviRGB/DSA-BxA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/yashasviRGB/DSA-BxA/tree/master/0242-valid-anagram) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/yashasviRGB/DSA-BxA/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/yashasviRGB/DSA-BxA/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/yashasviRGB/DSA-BxA/tree/master/0202-happy-number) |
 ## Union-Find
 |  |
