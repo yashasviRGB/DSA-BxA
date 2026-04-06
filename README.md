@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/yashasviRGB/DSA-BxA/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/yashasviRGB/DSA-BxA/tree/master/0228-summary-ranges) |
 | [0274-h-index](https://github.com/yashasviRGB/DSA-BxA/tree/master/0274-h-index) |
+| [0380-insert-delete-getrandom-o1](https://github.com/yashasviRGB/DSA-BxA/tree/master/0380-insert-delete-getrandom-o1) |
 ## Hash Table
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/yashasviRGB/DSA-BxA/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/yashasviRGB/DSA-BxA/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/yashasviRGB/DSA-BxA/tree/master/0290-word-pattern) |
+| [0380-insert-delete-getrandom-o1](https://github.com/yashasviRGB/DSA-BxA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/yashasviRGB/DSA-BxA/tree/master/0383-ransom-note) |
 ## Divide and Conquer
 |  |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/yashasviRGB/DSA-BxA/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/yashasviRGB/DSA-BxA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/yashasviRGB/DSA-BxA/tree/master/0202-happy-number) |
+| [0380-insert-delete-getrandom-o1](https://github.com/yashasviRGB/DSA-BxA/tree/master/0380-insert-delete-getrandom-o1) |
 ## Union-Find
 |  |
 | ------- |
@@ -194,4 +197,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/yashasviRGB/DSA-BxA/tree/master/0274-h-index) |
+## Design
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/yashasviRGB/DSA-BxA/tree/master/0380-insert-delete-getrandom-o1) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/yashasviRGB/DSA-BxA/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
