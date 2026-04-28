@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/yashasviRGB/DSA-BxA/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/yashasviRGB/DSA-BxA/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/yashasviRGB/DSA-BxA/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/yashasviRGB/DSA-BxA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/yashasviRGB/DSA-BxA/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/yashasviRGB/DSA-BxA/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/yashasviRGB/DSA-BxA/tree/master/0057-insert-interval) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/yashasviRGB/DSA-BxA/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/yashasviRGB/DSA-BxA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/yashasviRGB/DSA-BxA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/yashasviRGB/DSA-BxA/tree/master/0169-majority-element) |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/yashasviRGB/DSA-BxA/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/yashasviRGB/DSA-BxA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/yashasviRGB/DSA-BxA/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/yashasviRGB/DSA-BxA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yashasviRGB/DSA-BxA/tree/master/0121-best-time-to-buy-and-sell-stock) |
