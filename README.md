@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/yashasviRGB/DSA-BxA/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/yashasviRGB/DSA-BxA/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/yashasviRGB/DSA-BxA/tree/master/0057-insert-interval) |
+| [0073-set-matrix-zeroes](https://github.com/yashasviRGB/DSA-BxA/tree/master/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/yashasviRGB/DSA-BxA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/yashasviRGB/DSA-BxA/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/yashasviRGB/DSA-BxA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/yashasviRGB/DSA-BxA/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/yashasviRGB/DSA-BxA/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/yashasviRGB/DSA-BxA/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/yashasviRGB/DSA-BxA/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/yashasviRGB/DSA-BxA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/yashasviRGB/DSA-BxA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/yashasviRGB/DSA-BxA/tree/master/0128-longest-consecutive-sequence) |
@@ -211,4 +213,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/yashasviRGB/DSA-BxA/tree/master/0380-insert-delete-getrandom-o1) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/yashasviRGB/DSA-BxA/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
