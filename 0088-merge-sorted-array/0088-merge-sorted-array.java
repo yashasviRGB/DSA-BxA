@@ -13,35 +13,51 @@ class Solution {
             j++;
         }
     }
+    // public void merge(int[] nums1, int m, int[] nums2, int n) {
+    //     int i = 0;
+    //     int j = 0;
+
+    //     while(i<m && j<n){
+    //         if(nums1[i] > nums2[j]){
+    //             swap(i,j,nums1,nums2);
+    //             i++;
+    //             position(j,nums2);
+    //         }
+    //         else{
+    //             i++;
+    //         }
+    //     }
+    //     j = 0;
+    //     while( i < (m + n) && j < n){
+    //         nums1[i] = nums2[j];
+    //         i++;
+    //         j++;
+    //     }
+    // }
     public void merge(int[] nums1, int m, int[] nums2, int n) {
-        int i = 0;
-        int j = 0;
-        // int k = 0;
-        // int[] result = new int[n+m];
-        while(i<m && j<n){
-            if(nums1[i] > nums2[j]){
-                // result[k] = nums1[i];
-                swap(i,j,nums1,nums2);
-                i++;
-                position(j,nums2);
+        int i = m-1;
+        int j = n-1;
+        int k = m + n - 1;
+        while(i >= 0 && j >= 0){
+            if(nums1[i] >= nums2[j]){
+                // int temp = nums1[k];
+                nums1[k] = nums1[i];
+                // nums1[i] = temp;
+                i--;
+                k--;
             }
             else{
-                // result[k] = nums2[j];
-                i++;
+                // int temp = nums1[k];
+                nums1[k] = nums2[j];
+                // nums2[j] = temp;
+                j--;
+                k--;
             }
-            // k++;
         }
-        j = 0;
-        while( i < (m + n) && j < n){
-            nums1[i] = nums2[j];
-            i++;
-            j++;
+        while(j >= 0){
+            nums1[k] = nums2[j];
+            j--;
+            k--;
         }
-        // while(j<n){
-        //     result[k++] = nums2[j++];
-        // }
-        // for(i = 0; i < m+n; i++){
-        //     nums1[i] = result[i];
-        // }
     }
 }
