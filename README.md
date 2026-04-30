@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/yashasviRGB/DSA-BxA/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/yashasviRGB/DSA-BxA/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/yashasviRGB/DSA-BxA/tree/master/0274-h-index) |
+| [0287-find-the-duplicate-number](https://github.com/yashasviRGB/DSA-BxA/tree/master/0287-find-the-duplicate-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/yashasviRGB/DSA-BxA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0560-subarray-sum-equals-k](https://github.com/yashasviRGB/DSA-BxA/tree/master/0560-subarray-sum-equals-k) |
 ## Hash Table
@@ -110,10 +111,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/yashasviRGB/DSA-BxA/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/yashasviRGB/DSA-BxA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/yashasviRGB/DSA-BxA/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/yashasviRGB/DSA-BxA/tree/master/0287-find-the-duplicate-number) |
 ## Binary Search
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/yashasviRGB/DSA-BxA/tree/master/0209-minimum-size-subarray-sum) |
+| [0287-find-the-duplicate-number](https://github.com/yashasviRGB/DSA-BxA/tree/master/0287-find-the-duplicate-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -239,4 +242,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/yashasviRGB/DSA-BxA/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/yashasviRGB/DSA-BxA/tree/master/0073-set-matrix-zeroes) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/yashasviRGB/DSA-BxA/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
