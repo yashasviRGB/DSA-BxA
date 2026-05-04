@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0092-reverse-linked-list-ii](https://github.com/yashasviRGB/DSA-BxA/tree/master/0092-reverse-linked-list-ii) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/yashasviRGB/DSA-BxA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0141-linked-list-cycle](https://github.com/yashasviRGB/DSA-BxA/tree/master/0141-linked-list-cycle) |
+| [0237-delete-node-in-a-linked-list](https://github.com/yashasviRGB/DSA-BxA/tree/master/0237-delete-node-in-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
