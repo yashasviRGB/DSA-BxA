@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/yashasviRGB/DSA-BxA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0560-subarray-sum-equals-k](https://github.com/yashasviRGB/DSA-BxA/tree/master/0560-subarray-sum-equals-k) |
 | [2109-adding-spaces-to-a-string](https://github.com/yashasviRGB/DSA-BxA/tree/master/2109-adding-spaces-to-a-string) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/yashasviRGB/DSA-BxA/tree/master/2154-keep-multiplying-found-values-by-two) |
 ## Hash Table
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/yashasviRGB/DSA-BxA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/yashasviRGB/DSA-BxA/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/yashasviRGB/DSA-BxA/tree/master/0560-subarray-sum-equals-k) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/yashasviRGB/DSA-BxA/tree/master/2154-keep-multiplying-found-values-by-two) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/yashasviRGB/DSA-BxA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/yashasviRGB/DSA-BxA/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/yashasviRGB/DSA-BxA/tree/master/0274-h-index) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/yashasviRGB/DSA-BxA/tree/master/2154-keep-multiplying-found-values-by-two) |
 ## Counting
 |  |
 | ------- |
@@ -276,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2109-adding-spaces-to-a-string](https://github.com/yashasviRGB/DSA-BxA/tree/master/2109-adding-spaces-to-a-string) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/yashasviRGB/DSA-BxA/tree/master/2154-keep-multiplying-found-values-by-two) |
 ## Queue
 |  |
 | ------- |
