@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/yashasviRGB/DSA-BxA/tree/master/0287-find-the-duplicate-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/yashasviRGB/DSA-BxA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0560-subarray-sum-equals-k](https://github.com/yashasviRGB/DSA-BxA/tree/master/0560-subarray-sum-equals-k) |
+| [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/yashasviRGB/DSA-BxA/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [2109-adding-spaces-to-a-string](https://github.com/yashasviRGB/DSA-BxA/tree/master/2109-adding-spaces-to-a-string) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/yashasviRGB/DSA-BxA/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/yashasviRGB/DSA-BxA/tree/master/2395-find-subarrays-with-equal-sum) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/yashasviRGB/DSA-BxA/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yashasviRGB/DSA-BxA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/yashasviRGB/DSA-BxA/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 ## Counting Sort
 |  |
 | ------- |
