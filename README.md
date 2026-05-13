@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/yashasviRGB/DSA-BxA/tree/master/0560-subarray-sum-equals-k) |
 | [2109-adding-spaces-to-a-string](https://github.com/yashasviRGB/DSA-BxA/tree/master/2109-adding-spaces-to-a-string) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/yashasviRGB/DSA-BxA/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2395-find-subarrays-with-equal-sum](https://github.com/yashasviRGB/DSA-BxA/tree/master/2395-find-subarrays-with-equal-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/yashasviRGB/DSA-BxA/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/yashasviRGB/DSA-BxA/tree/master/0560-subarray-sum-equals-k) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/yashasviRGB/DSA-BxA/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2395-find-subarrays-with-equal-sum](https://github.com/yashasviRGB/DSA-BxA/tree/master/2395-find-subarrays-with-equal-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
