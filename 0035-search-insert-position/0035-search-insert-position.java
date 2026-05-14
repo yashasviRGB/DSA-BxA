@@ -7,7 +7,7 @@ class Solution {
         while(low <= high){
             if(nums[mid] == target) return mid;
             else if(nums[mid] < target){
-                low = mid + 1;
+                low = mid+1;
             }
             else {
                 high = mid - 1;
