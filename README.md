@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yashasviRGB/DSA-BxA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/yashasviRGB/DSA-BxA/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/yashasviRGB/DSA-BxA/tree/master/0134-gas-station) |
+| [0152-maximum-product-subarray](https://github.com/yashasviRGB/DSA-BxA/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/yashasviRGB/DSA-BxA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/yashasviRGB/DSA-BxA/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/yashasviRGB/DSA-BxA/tree/master/0169-majority-element) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/yashasviRGB/DSA-BxA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yashasviRGB/DSA-BxA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yashasviRGB/DSA-BxA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0152-maximum-product-subarray](https://github.com/yashasviRGB/DSA-BxA/tree/master/0152-maximum-product-subarray) |
 ## Two Pointers
 |  |
 | ------- |
