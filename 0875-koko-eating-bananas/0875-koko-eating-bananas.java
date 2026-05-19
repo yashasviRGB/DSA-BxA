@@ -18,7 +18,7 @@ class Solution {
         while(low <= high){
             int mid = low + (high - low)/2;
             if(check(piles,h,mid)){
-                result = Math.min(result,mid);
+                result = mid;
                 high = mid - 1;
             }
             else{
