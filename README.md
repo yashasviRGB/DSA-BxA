@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/yashasviRGB/DSA-BxA/tree/master/0287-find-the-duplicate-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/yashasviRGB/DSA-BxA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0485-max-consecutive-ones](https://github.com/yashasviRGB/DSA-BxA/tree/master/0485-max-consecutive-ones) |
+| [0540-single-element-in-a-sorted-array](https://github.com/yashasviRGB/DSA-BxA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/yashasviRGB/DSA-BxA/tree/master/0560-subarray-sum-equals-k) |
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/yashasviRGB/DSA-BxA/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [2109-adding-spaces-to-a-string](https://github.com/yashasviRGB/DSA-BxA/tree/master/2109-adding-spaces-to-a-string) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/yashasviRGB/DSA-BxA/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/yashasviRGB/DSA-BxA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/yashasviRGB/DSA-BxA/tree/master/0287-find-the-duplicate-number) |
+| [0540-single-element-in-a-sorted-array](https://github.com/yashasviRGB/DSA-BxA/tree/master/0540-single-element-in-a-sorted-array) |
 ## Sliding Window
 |  |
 | ------- |
