@@ -1,8 +1,9 @@
 class Solution {
     public boolean check(int[] piles, int h, int value){
-        int totalhours = 0;
+        long totalhours = 0;
         for(int num : piles){
-            totalhours += Math.ceil((double) num / value);
+            // totalhours += Math.ceil((double) num / value);
+            totalhours += (num + value - 1) / value;
         }
         return totalhours <= h;
     }
