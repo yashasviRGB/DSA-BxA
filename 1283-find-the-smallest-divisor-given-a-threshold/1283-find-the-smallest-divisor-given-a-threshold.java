@@ -1,8 +1,9 @@
 class Solution {
-    public int check(int[] nums, int t, int divisor){
-        int sum = 0;
+    public long check(int[] nums, int t, int divisor){
+        long sum = 0;
         for(int i : nums){
-            sum += Math.ceil((double)i / divisor);
+            // sum += Math.ceil((double)i / divisor);
+            sum += (i + divisor - 1) / divisor;
             if(sum > t){
                 return sum;
             }
@@ -21,7 +22,7 @@ class Solution {
         int result = -1;
         while(low <= high){
             int mid = low + (high - low)/2;
-            int sum = check(nums,threshold, mid);
+            long sum = check(nums,threshold, mid);
             if(sum <= threshold){
                 result = mid;
                 high = mid - 1;
