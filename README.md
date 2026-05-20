@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/yashasviRGB/DSA-BxA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/yashasviRGB/DSA-BxA/tree/master/0560-subarray-sum-equals-k) |
 | [0875-koko-eating-bananas](https://github.com/yashasviRGB/DSA-BxA/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/yashasviRGB/DSA-BxA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/yashasviRGB/DSA-BxA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/yashasviRGB/DSA-BxA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/yashasviRGB/DSA-BxA/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/yashasviRGB/DSA-BxA/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/yashasviRGB/DSA-BxA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/yashasviRGB/DSA-BxA/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/yashasviRGB/DSA-BxA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/yashasviRGB/DSA-BxA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/yashasviRGB/DSA-BxA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Sliding Window
