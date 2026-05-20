@@ -3,17 +3,19 @@ class Solution {
         int n = nums.length;
         int low = 0;
         int high =  n-1;
-        int mid = (low + high)/2;
+        int ans = n;
         while(low <= high){
-            if(nums[mid] == target) return mid;
-            else if(nums[mid] < target){
+            int mid = (low + high)/2;
+            // if(nums[mid] == target) return mid;
+            if(nums[mid] < target){
                 low = mid+1;
             }
             else {
+                ans = mid;
                 high = mid - 1;
             }
-            mid = (low + high)/2;
+            
         }
-        return low;
+        return ans;
     }
 }
