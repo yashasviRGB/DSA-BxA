@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/yashasviRGB/DSA-BxA/tree/master/0274-h-index) |
 | [0287-find-the-duplicate-number](https://github.com/yashasviRGB/DSA-BxA/tree/master/0287-find-the-duplicate-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/yashasviRGB/DSA-BxA/tree/master/0380-insert-delete-getrandom-o1) |
+| [0410-split-array-largest-sum](https://github.com/yashasviRGB/DSA-BxA/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/yashasviRGB/DSA-BxA/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/yashasviRGB/DSA-BxA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/yashasviRGB/DSA-BxA/tree/master/0560-subarray-sum-equals-k) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yashasviRGB/DSA-BxA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yashasviRGB/DSA-BxA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/yashasviRGB/DSA-BxA/tree/master/0152-maximum-product-subarray) |
+| [0410-split-array-largest-sum](https://github.com/yashasviRGB/DSA-BxA/tree/master/0410-split-array-largest-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/yashasviRGB/DSA-BxA/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/yashasviRGB/DSA-BxA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/yashasviRGB/DSA-BxA/tree/master/0287-find-the-duplicate-number) |
+| [0410-split-array-largest-sum](https://github.com/yashasviRGB/DSA-BxA/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/yashasviRGB/DSA-BxA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/yashasviRGB/DSA-BxA/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/yashasviRGB/DSA-BxA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -178,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/yashasviRGB/DSA-BxA/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/yashasviRGB/DSA-BxA/tree/master/0238-product-of-array-except-self) |
+| [0410-split-array-largest-sum](https://github.com/yashasviRGB/DSA-BxA/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/yashasviRGB/DSA-BxA/tree/master/0560-subarray-sum-equals-k) |
 ## String
 |  |
@@ -290,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/yashasviRGB/DSA-BxA/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yashasviRGB/DSA-BxA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/yashasviRGB/DSA-BxA/tree/master/0134-gas-station) |
+| [0410-split-array-largest-sum](https://github.com/yashasviRGB/DSA-BxA/tree/master/0410-split-array-largest-sum) |
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/yashasviRGB/DSA-BxA/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 ## Counting Sort
 |  |
