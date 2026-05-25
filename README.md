@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/yashasviRGB/DSA-BxA/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/yashasviRGB/DSA-BxA/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/yashasviRGB/DSA-BxA/tree/master/0238-product-of-array-except-self) |
+| [0240-search-a-2d-matrix-ii](https://github.com/yashasviRGB/DSA-BxA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/yashasviRGB/DSA-BxA/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/yashasviRGB/DSA-BxA/tree/master/0274-h-index) |
 | [0287-find-the-duplicate-number](https://github.com/yashasviRGB/DSA-BxA/tree/master/0287-find-the-duplicate-number) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/yashasviRGB/DSA-BxA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/yashasviRGB/DSA-BxA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/yashasviRGB/DSA-BxA/tree/master/0169-majority-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/yashasviRGB/DSA-BxA/tree/master/0240-search-a-2d-matrix-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/yashasviRGB/DSA-BxA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/yashasviRGB/DSA-BxA/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/yashasviRGB/DSA-BxA/tree/master/0209-minimum-size-subarray-sum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/yashasviRGB/DSA-BxA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/yashasviRGB/DSA-BxA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/yashasviRGB/DSA-BxA/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/yashasviRGB/DSA-BxA/tree/master/0410-split-array-largest-sum) |
@@ -317,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/yashasviRGB/DSA-BxA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/yashasviRGB/DSA-BxA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/yashasviRGB/DSA-BxA/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/yashasviRGB/DSA-BxA/tree/master/0240-search-a-2d-matrix-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
