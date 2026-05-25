@@ -5,25 +5,13 @@ class Solution {
         int open = 0;
         for(int i = 0; i< n; i++){
             char ch = s.charAt(i);
-            
-            if(open > 1){
-                result += ch;
-                if(ch == '(')
-                    open++;
-                else open--;
-            }
-            else if(open == 1){
-                if(ch == '('){
-                    result += ch;
-                    open++;
-                }
-                else{
-                    open--;
-                }
-                
+            if(ch == '('){
+                if(open > 0) result += ch;
+                open++;
             }
             else{
-                open++;
+                open--;
+                if(open > 0) result += ch;
             }
             
         }
