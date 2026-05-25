@@ -1,15 +1,16 @@
 class Solution {
     public String removeOuterParentheses(String s) {
-        String result = "";   // To store the final result
+        StringBuilder result = new StringBuilder();   // To store the final result
         int balance = 0; // To keep track of the balance of parentheses
 
         // Iterate through each character in the string
         for (int i = 0; i < s.length(); i++) {
-            if (s.charAt(i) == '(') {
+            char ch = s.charAt(i);
+            if (ch == '(') {
                 // If balance is greater than 0, it means this '(' is not an
                 // outermost parenthesis
                 if (balance > 0) {
-                    result += s.charAt(i); // Add the character to the result
+                    result.append(ch); // Add the character to the result
                 }
                 balance++; // Increase the balance for '('
             } else {
@@ -17,11 +18,11 @@ class Solution {
                 // If balance is greater than 0, it means this ')' is not an
                 // outermost parenthesis
                 if (balance > 0) {
-                    result += s.charAt(i); // Add the character to the result
+                    result.append(ch); // Add the character to the result
                 }
             }
         }
 
-        return result;
+        return result.toString();
     }
 }
