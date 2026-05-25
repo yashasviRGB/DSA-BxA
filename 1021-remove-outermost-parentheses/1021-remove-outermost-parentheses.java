@@ -1,45 +1,27 @@
 class Solution {
     public String removeOuterParentheses(String s) {
-        int n = s.length();
-        String result = "";
-        int open = 0;
-        for(int i = 0; i< n; i++){
-            char ch = s.charAt(i);
-            if(ch == '('){
-                if(open > 0) result += ch;
-                open++;
+        String result = "";   // To store the final result
+        int balance = 0; // To keep track of the balance of parentheses
+
+        // Iterate through each character in the string
+        for (int i = 0; i < s.length(); i++) {
+            if (s.charAt(i) == '(') {
+                // If balance is greater than 0, it means this '(' is not an
+                // outermost parenthesis
+                if (balance > 0) {
+                    result += s.charAt(i); // Add the character to the result
+                }
+                balance++; // Increase the balance for '('
+            } else {
+                balance--; // Decrease the balance for ')'
+                // If balance is greater than 0, it means this ')' is not an
+                // outermost parenthesis
+                if (balance > 0) {
+                    result += s.charAt(i); // Add the character to the result
+                }
             }
-            else{
-                open--;
-                if(open > 0) result += ch;
-            }
-            
         }
+
         return result;
     }
-
-
-    // public solve(String s){
-    //     Stack<Character> st = new Stack<>();
-    //     int n = s.length();
-    //     String result = "";
-    //     for(int i = 0; i<n; i++){
-    //         char ch = s.charAt(i);
-    //         if(ch == '('){
-    //             if(st.size() == 0){
-    //                 st.push(ch);
-    //             }
-    //             else{
-    //                 st.push(ch);
-    //                 result += ch;
-    //             }
-    //         }
-    //         else{
-    //             if(st.size() > 1)
-    //                 result += ch;
-    //             st.pop();
-    //         }
-    //     }
-    //     return result;
-    // }
 }
