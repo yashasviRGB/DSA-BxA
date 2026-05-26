@@ -3,26 +3,31 @@ class Solution {
         int result = 0;
         char sign = '+';
         int n = s.length();
-        if(n == 0) return 0;
         int i = 0;
-        while(i < n && s.charAt(i) == ' ') i++;
-        if(i == n) return 0;
-        if(s.charAt(i) == '-'){
+
+        if (n == 0) return 0;
+
+        while (i < n && s.charAt(i) == ' ') i++;
+        if (i == n) return 0;
+
+        if (s.charAt(i) == '-') {
             sign = '-';
             i++;
+        } else if (s.charAt(i) == '+') {
+            i++;
         }
-        else if(s.charAt(i) == '+') i++;
 
-        while(i < n && s.charAt(i) >= '0' && s.charAt(i) <= '9'){
+        while (i < n && s.charAt(i) >= '0' && s.charAt(i) <= '9') {
             int x = s.charAt(i) - '0';
             i++;
-            if(result > (Integer.MAX_VALUE - x) / 10){
+
+            if (result > (Integer.MAX_VALUE - x) / 10) {
                 return sign == '-' ? Integer.MIN_VALUE : Integer.MAX_VALUE;
             }
 
-            result = result*10 + x;
+            result = result * 10 + x;
         }
-        if(sign == '-') return result * -1;
-        return result;
+
+        return sign == '-' ? -result : result;
     }
 }
