@@ -13,17 +13,38 @@ class Solution {
             if(nums[j] == 2){
                 swap(l,j,nums);
                 l--;
-                // while(l >= 0 && nums[l] == 2) l--;
-                continue;
             }
-            else if(nums[j] == 0){
-                swap(i,j, nums);
+            else if(nums[j] == 1){
+                j++;
+            }
+            else {
+                swap(j,i,nums);
                 i++;
-                // while(i < n-1 && nums[i] == 0)i++;
+                j++;
             }
-            
-            j++;
             
         }
     }
 }
+
+
+
+
+
+
+
+// if(nums[j] == 2){
+//                 swap(l,j,nums);
+//                 l--;
+//                 //In DNF, you never skip indices blindly. 
+//                 //We are checking only by j pointer
+//                 // while(l >= 0 && nums[l] == 2) l--; 
+//                 continue;
+//             }
+//             else if(nums[j] == 0){
+//                 swap(i,j, nums);
+//                 i++;
+//                 // while(i < n-1 && nums[i] == 0)i++;
+//             }
+            
+//             j++;
