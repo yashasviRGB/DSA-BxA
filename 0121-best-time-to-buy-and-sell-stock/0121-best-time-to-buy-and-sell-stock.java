@@ -1,20 +1,16 @@
 class Solution {
     public int maxProfit(int[] prices) {
+        int result = 0;
         int n = prices.length;
-        int[] maxi = new int[n];
-        int maximum = Integer.MIN_VALUE;
-        for(int i = n-1; i >= 0; i--){
-            if(prices[i] > maximum){
-                maximum = prices[i];
-                maxi[i] = maximum;
+        int min = prices[0];
+
+        for(int i = 1; i< n; i++){
+            if(min >= prices[i]){
+                min = prices[i];
             }
             else{
-                maxi[i] = maximum;
+                result = Math.max(result, prices[i] - min);
             }
-        }
-        int result = 0;
-        for(int i = 0; i< n-1; i++){
-            result = Math.max(result, maxi[i] - prices[i]);
         }
         return result;
     }
