@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yashasviRGB/DSA-BxA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/yashasviRGB/DSA-BxA/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/yashasviRGB/DSA-BxA/tree/master/0410-split-array-largest-sum) |
+| [0678-valid-parenthesis-string](https://github.com/yashasviRGB/DSA-BxA/tree/master/0678-valid-parenthesis-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/yashasviRGB/DSA-BxA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/yashasviRGB/DSA-BxA/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/yashasviRGB/DSA-BxA/tree/master/0451-sort-characters-by-frequency) |
+| [0678-valid-parenthesis-string](https://github.com/yashasviRGB/DSA-BxA/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/yashasviRGB/DSA-BxA/tree/master/1021-remove-outermost-parentheses) |
 | [2109-adding-spaces-to-a-string](https://github.com/yashasviRGB/DSA-BxA/tree/master/2109-adding-spaces-to-a-string) |
 ## Math
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/yashasviRGB/DSA-BxA/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/yashasviRGB/DSA-BxA/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/yashasviRGB/DSA-BxA/tree/master/0234-palindrome-linked-list) |
+| [0678-valid-parenthesis-string](https://github.com/yashasviRGB/DSA-BxA/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/yashasviRGB/DSA-BxA/tree/master/1021-remove-outermost-parentheses) |
 ## Linked List
 |  |
@@ -320,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/yashasviRGB/DSA-BxA/tree/master/0134-gas-station) |
 | [0410-split-array-largest-sum](https://github.com/yashasviRGB/DSA-BxA/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/yashasviRGB/DSA-BxA/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/yashasviRGB/DSA-BxA/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/yashasviRGB/DSA-BxA/tree/master/0860-lemonade-change) |
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/yashasviRGB/DSA-BxA/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 ## Counting Sort
