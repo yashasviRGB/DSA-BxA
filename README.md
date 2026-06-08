@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/yashasviRGB/DSA-BxA/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/yashasviRGB/DSA-BxA/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/yashasviRGB/DSA-BxA/tree/master/0485-max-consecutive-ones) |
+| [0493-reverse-pairs](https://github.com/yashasviRGB/DSA-BxA/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/yashasviRGB/DSA-BxA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/yashasviRGB/DSA-BxA/tree/master/0560-subarray-sum-equals-k) |
 | [0860-lemonade-change](https://github.com/yashasviRGB/DSA-BxA/tree/master/0860-lemonade-change) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/yashasviRGB/DSA-BxA/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/yashasviRGB/DSA-BxA/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/yashasviRGB/DSA-BxA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0493-reverse-pairs](https://github.com/yashasviRGB/DSA-BxA/tree/master/0493-reverse-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/yashasviRGB/DSA-BxA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/yashasviRGB/DSA-BxA/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/yashasviRGB/DSA-BxA/tree/master/0410-split-array-largest-sum) |
+| [0493-reverse-pairs](https://github.com/yashasviRGB/DSA-BxA/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/yashasviRGB/DSA-BxA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/yashasviRGB/DSA-BxA/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/yashasviRGB/DSA-BxA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -383,4 +386,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/yashasviRGB/DSA-BxA/tree/master/0148-sort-list) |
+| [0493-reverse-pairs](https://github.com/yashasviRGB/DSA-BxA/tree/master/0493-reverse-pairs) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/yashasviRGB/DSA-BxA/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/yashasviRGB/DSA-BxA/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/yashasviRGB/DSA-BxA/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
