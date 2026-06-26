@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/yashasviRGB/DSA-BxA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/yashasviRGB/DSA-BxA/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/yashasviRGB/DSA-BxA/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/yashasviRGB/DSA-BxA/tree/master/0146-lru-cache) |
 | [0166-fraction-to-recurring-decimal](https://github.com/yashasviRGB/DSA-BxA/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/yashasviRGB/DSA-BxA/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/yashasviRGB/DSA-BxA/tree/master/0202-happy-number) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0092-reverse-linked-list-ii](https://github.com/yashasviRGB/DSA-BxA/tree/master/0092-reverse-linked-list-ii) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/yashasviRGB/DSA-BxA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0141-linked-list-cycle](https://github.com/yashasviRGB/DSA-BxA/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/yashasviRGB/DSA-BxA/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/yashasviRGB/DSA-BxA/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/yashasviRGB/DSA-BxA/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/yashasviRGB/DSA-BxA/tree/master/0237-delete-node-in-a-linked-list) |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/yashasviRGB/DSA-BxA/tree/master/0146-lru-cache) |
 | [0380-insert-delete-getrandom-o1](https://github.com/yashasviRGB/DSA-BxA/tree/master/0380-insert-delete-getrandom-o1) |
 ## Randomized
 |  |
@@ -421,4 +424,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/yashasviRGB/DSA-BxA/tree/master/0572-subtree-of-another-tree) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/yashasviRGB/DSA-BxA/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
