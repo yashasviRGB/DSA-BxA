@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/yashasviRGB/DSA-BxA/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/yashasviRGB/DSA-BxA/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/yashasviRGB/DSA-BxA/tree/master/0135-candy) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/yashasviRGB/DSA-BxA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/yashasviRGB/DSA-BxA/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/yashasviRGB/DSA-BxA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/yashasviRGB/DSA-BxA/tree/master/0162-find-peak-element) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/yashasviRGB/DSA-BxA/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/yashasviRGB/DSA-BxA/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/yashasviRGB/DSA-BxA/tree/master/0069-sqrtx) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/yashasviRGB/DSA-BxA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0166-fraction-to-recurring-decimal](https://github.com/yashasviRGB/DSA-BxA/tree/master/0166-fraction-to-recurring-decimal) |
 | [0189-rotate-array](https://github.com/yashasviRGB/DSA-BxA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/yashasviRGB/DSA-BxA/tree/master/0202-happy-number) |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/yashasviRGB/DSA-BxA/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/yashasviRGB/DSA-BxA/tree/master/0042-trapping-rain-water) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/yashasviRGB/DSA-BxA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/yashasviRGB/DSA-BxA/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/yashasviRGB/DSA-BxA/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/yashasviRGB/DSA-BxA/tree/master/0678-valid-parenthesis-string) |
