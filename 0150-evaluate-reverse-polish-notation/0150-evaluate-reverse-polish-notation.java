@@ -8,12 +8,7 @@ class Solution {
         }
         return 0;
     }
-    public int precedence(String ch){
-        if(ch == "+" || ch == "-") return 1;
-        else if(ch == "*" || ch == "/") return 2;
-
-        return 0;
-    }
+    
     public int evalRPN(String[] tokens) {
         Stack<Integer> st = new Stack<>();
         int n = tokens.length;
