@@ -8,7 +8,7 @@ class Solution {
         }
         return 0;
     }
-    
+
     public int evalRPN(String[] tokens) {
         Stack<Integer> st = new Stack<>();
         int n = tokens.length;
@@ -24,7 +24,7 @@ class Solution {
                 st.push(value);
             }
         }
-        if(!st.empty()) return st.pop();
+        if(!st.isEmpty()) return st.pop();
         return 0;
     }
 }
